@@ -1,0 +1,13 @@
+.myheadertyle {
+    color: green 
+    background-color: lightblue;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.mystyle{
+    color: red;
+    background-color: lightyellow;
+    font-size: 20px;
+    padding: 5px;
+}
